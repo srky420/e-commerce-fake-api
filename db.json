@@ -4,7 +4,7 @@
           "id": "1",
           "title": "Hanging Wall Lamp",
           "description": "A beautifully lit wall lamp to lit up your living room. Provides a dim yellow light for aesthetics.",
-          "image": "/assets/images/wall-lamp.jpg",
+          "image": "/assets/images/products/wall-lamp.jpg",
           "price": "59",
           "discount": "0.25",
           "rating": {
@@ -17,7 +17,7 @@
           "id": "2",
           "title": "Adidas Gazelle Bold Cream Collegiate Green",
           "description": "Adidas joggers for comfortable running. Light, elegant and stylish.",
-          "image": "/assets/images/adidas.jpg",
+          "image": "/assets/images/products/adidas.jpg",
           "price": "70",
           "discount": "0.30",
           "rating": {
@@ -30,7 +30,7 @@
           "id": "3",
           "title": "SAUZ Cap and T-shirt Pack",
           "description": "A stylish cap with matching T-shirt. High quality fabric and design.",
-          "image": "/assets/images/sauz-cap.jpg",
+          "image": "/assets/images/products/sauz-cap.jpg",
           "price": "45",
           "discount": "0.25",
           "rating": {
@@ -43,7 +43,7 @@
           "id": "4",
           "title": "Lola Rose Women Watch",
           "description": "An elegant women's watch to lit up your style.",
-          "image": "/assets/images/lola-rose-watch.jpg",
+          "image": "/assets/images/products/lola-rose-watch.jpg",
           "price": "85",
           "discount": "0.25",
           "rating": {
@@ -56,7 +56,7 @@
           "id": "5",
           "title": "Sneakers Shoes Autumn Collection",
           "description": "Autumn collection sneakers. Comfortable and stylish.",
-          "image": "/assets/images/sneakers.jpg",
+          "image": "/assets/images/products/sneakers.jpg",
           "price": "57",
           "discount": "0.5",
           "rating": {
@@ -70,27 +70,27 @@
       {
           "id": "1",
           "name": "Furniture",
-          "image": "/assets/images/category-furniture.jpg"
+          "image": "/assets/images/categories/category-furniture.jpg"
       },
       {
           "id": "2",
           "name": "Accessories",
-          "image": "/assets/images/category-accessories.jpg"
+          "image": "/assets/images/categories/category-accessories.jpg"
       },
       {
           "id": "3",
           "name": "Electronics",
-          "image": "/assets/images/category-electronics.jpg"
+          "image": "/assets/images/categories/category-electronics.jpg"
       },
       {
           "id": "4",
           "name": "Clothing",
-          "image": "/assets/images/category-clothing.jpg"
+          "image": "/assets/images/categories/category-clothing.jpg"
       },
       {
           "id": "5",
           "name": "Footwear",
-          "image": "/assets/images/category-footwear.jpg"
+          "image": "/assets/images/categories/category-footwear.jpg"
       }
   ]
 }
