@@ -1,9 +1,96 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "products": [
+      {
+          "id": "1",
+          "title": "Hanging Wall Lamp",
+          "description": "A beautifully lit wall lamp to lit up your living room. Provides a dim yellow light for aesthetics.",
+          "image": "/assets/images/wall-lamp.jpg",
+          "price": "59",
+          "discount": "0.25",
+          "rating": {
+              "stars": "4.5",
+              "count": "50"
+          },
+          "category": "1"
+      },
+      {
+          "id": "2",
+          "title": "Adidas Gazelle Bold Cream Collegiate Green",
+          "description": "Adidas joggers for comfortable running. Light, elegant and stylish.",
+          "image": "/assets/images/adidas.jpg",
+          "price": "70",
+          "discount": "0.30",
+          "rating": {
+              "stars": "5.0",
+              "count": "86"
+          },
+          "category": "5"
+      },
+      {
+          "id": "3",
+          "title": "SAUZ Cap and T-shirt Pack",
+          "description": "A stylish cap with matching T-shirt. High quality fabric and design.",
+          "image": "/assets/images/sauz-cap.jpg",
+          "price": "45",
+          "discount": "0.25",
+          "rating": {
+              "stars": "4.0",
+              "count": "265"
+          },
+          "category": "4"
+      },
+      {
+          "id": "4",
+          "title": "Lola Rose Women Watch",
+          "description": "An elegant women's watch to lit up your style.",
+          "image": "/assets/images/lola-rose-watch.jpg",
+          "price": "85",
+          "discount": "0.25",
+          "rating": {
+              "stars": "4.3",
+              "count": "55"
+          },
+          "category": "3"
+      },
+      {
+          "id": "5",
+          "title": "Sneakers Shoes Autumn Collection",
+          "description": "Autumn collection sneakers. Comfortable and stylish.",
+          "image": "/assets/images/sneakers.jpg",
+          "price": "57",
+          "discount": "0.5",
+          "rating": {
+              "stars": "4.8",
+              "count": "452"
+          },
+          "category": "5"
+      }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "categories": [
+      {
+          "id": "1",
+          "name": "Furniture",
+          "image": "/assets/images/category-furniture.jpg"
+      },
+      {
+          "id": "2",
+          "name": "Accessories",
+          "image": "/assets/images/category-accessories.jpg"
+      },
+      {
+          "id": "3",
+          "name": "Electronics",
+          "image": "/assets/images/category-electronics.jpg"
+      },
+      {
+          "id": "4",
+          "name": "Clothing",
+          "image": "/assets/images/category-clothing.jpg"
+      },
+      {
+          "id": "5",
+          "name": "Footwear",
+          "image": "/assets/images/category-footwear.jpg"
+      }
+  ]
 }
